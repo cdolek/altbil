@@ -40,7 +40,8 @@
     - İnternet altyapısında fiili tekelin sonlandırılması
     - Telekomda şirket / yatırım ortaklıkları
   - Çocuklara özgür yazılım
-  - Mecliste lobi
+  - Taahhutname ve meclis grubu
+  - Güvenli haberleşme
   - Dijital emek / müşterek veri
   - İletişim ve Organizasyon
 
@@ -60,5 +61,5 @@
   - [Ungov](https://iuf.alternatifbilsim.org)
 
 #### Bağış
-  - [Dernek banka bilgisi(https://www.alternatifbilisim.org/wiki/Banka_Hesap_Bilgileri)
+  - [Dernek banka bilgisi](https://www.alternatifbilisim.org/wiki/Banka_Hesap_Bilgileri)
   - [Kredi kartıyla online ödeme](https://odeme.alternatifbilisim.org/)
