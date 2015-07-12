@@ -26,28 +26,29 @@
   - Medyada Alternatif Bilişim
 
 #### Alanlar / Çalışma Grupları
-  - Kitlesel gözetim / Sansür
-  - Özgür Lisanslar
+  - Kitlesel gözetim / Sansür [Ayşe, Baris, Melih, Isik, Neslihan]
+  - Özgür Lisanslar [Baris, Ayse, Melih, Neslihan]
     - choosealicense.com > lisanssec.org
     - altbil onayli sertifika
-  - Özgür yazılıma geçiş / İç eğitim
-  - Sözleşme takibi / gözetimi
+  - Özgür yazılıma geçiş / İç eğitim [Baris, Neslihan, Ugurcan, Isik]
+  - Sözleşme takibi / gözetimi [Nermin, Neslihan, Asli, Ilden, Baris]
     - tosdr.org
     - Kullanım şartları
     - Gizlilik sözleşmesi
     - Turkcell, Avea, Vodafone, Turktelekom, ttnet, superonline ...
-  - Ağ tarafsızlığı
+  - Ağ tarafsızlığı [Oguz, Burak, Gamze]
     - İnternet altyapısında fiili tekelin sonlandırılması
     - Telekomda şirket / yatırım ortaklıkları
-  - Çocuklara özgür yazılım
-  - Taahhutname ve meclis grubu
-  - Internet Social Forum Istanbul http://www.internetsocialforum.net
-  - Ungov Brazil http://iuf.partidopirata.org
-  - Güvenli haberleşme / Kriptoloji
-  - Internet'in Durumu Rapor grubu
-  - İletişim ve Organizasyon
-  - Siberfeminizm / dijital dantel
-  - Dijital emek / müşterek veri
+  - Çocuklara özgür yazılım [Nermin, Asli]
+  - Taahhutname ve meclis grubu [Osman, Melih, Ali Riza]
+  - Internet Social Forum Istanbul http://www.internetsocialforum.net [Melih, Seda, Burak, Isik]
+  - Ungov Brazil http://iuf.partidopirata.org [Burak, Zeyno, Isik, Asli]
+  - Güvenli haberleşme / Kriptoloji [Ugurcan, Baris, Neslihan, Isik, Alp]
+  - Internet'in Durumu Rapor grubu [Zeyno, Gamze, Ilden, Alp]
+  - İletişim ve Organizasyon [Erdem, Oguz, Burak, Orkut]
+  - Siberfeminizm / dijital dantel [Ayse, Zeyno, Ilden, Gamze, Asli, Isik, Neslihan, Neriman]
+  - Teknik Operasyonlar [Gokhan, Oguz, Burak, Ali Riza, Baris...]
+  - Dijital emek / müşterek veri [Burak]
 
 #### Projeler
   - [KemGözlereŞiş](https://kemgozleresis.org.tr)
