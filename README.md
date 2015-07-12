@@ -41,10 +41,12 @@
     - Telekomda şirket / yatırım ortaklıkları
   - Çocuklara özgür yazılım
   - Taahhutname ve meclis grubu
-  - Güvenli haberleşme
+  - Internet Social Forum Istanbul http://www.internetsocialforum.net
+  - Ungov Brazil http://iuf.partidopirata.org
+  - Güvenli haberleşme / Kriptoloji
   - Dijital emek / müşterek veri
+  - Internet'in Durumu Raporlama grubu
   - İletişim ve Organizasyon
-
 
 #### Projeler
   - [KemGözlereŞiş](https://kemgozleresis.org.tr)
