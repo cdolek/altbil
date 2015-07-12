@@ -1,13 +1,19 @@
-# Alternatif Bilsim Bilgi Mimarisi
+# Alternatif Bilişim Bilgi Mimarisi
 
 #### Hakkımızda
-  - Kimler
-  - Tüzük
+  - Vizyon
   - Amaçlar
+  - Tüzük
+  - Kimler
 
 #### İletişim
+  - Email, telefon, posta adresi
+  - Twitter
 
 #### Faaliyetler
+  - Kampanyalar
+  - Bildiriler
+  - Etkinlikler
 
 #### Projeler
   - Kemgözlereşiş,
@@ -24,3 +30,5 @@
   - ungov
 
 #### Bağış
+  - Dernek banka bilgisi
+  - Kredi kartıyla online ödeme
