@@ -11,6 +11,9 @@
   - Twitter
   - Facebook
 
+#### Üyelik
+  - https://alternatifbilisim.org/files/uyelik_formu.pdf
+
 #### Faaliyetler
   - Kampanyalar
   - Bildiriler
@@ -22,9 +25,15 @@
   - Yasa taslak önerileri
   - Medyada Alternatif Bilişim
 
+#### Alanlar
+  - Kitlesel gözetim
+  - Sansür
+  - Bilişim hukuku
+  - Özgür yazılım
+
 #### Projeler
-  - Kemgözlereşiş,
-  - Altbil TV,
+  - kemgozleresis.org.tr
+  - tv.alternatifbilsim.org
   - Yenimedya.org.tr
   - Enphormasyon.org
   - https kullan
@@ -34,7 +43,7 @@
   - bildirge.org
   - tahhutname.org
   - aletetme.org
-  - ungov
+  - iuf.alternatifbilsim.org
 
 #### Bağış
   - Dernek banka bilgisi
