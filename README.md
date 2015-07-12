@@ -26,15 +26,23 @@
   - Medyada Alternatif Bilişim
 
 #### Alanlar / Çalışma Grupları
-  - Kitlesel gözetim
+  - Kitlesel gözetim / Sansür
   - Özgür Lisanslar
     - choosealicense.com > lisanssec.org
     - altbil onayli sertifika
-  - Sansür
-  - İletişim ve Organizasyon
-  - İç eğitim
-  - Bilişim hukuku
   - Özgür yazılıma geçiş
+  - İç eğitim
+  - Sözleşme takibi / gözetimi
+    - tosdr.org
+    - Kullanım şartları
+    - Gizlilik sözleşmesi
+    - Turkcell, Avea, Vodafone, Turktelekom, ttnet, superonline ...
+  - Ağ tarafsızlığı
+    - İnternet altyapısında fiili tekelin sonlandırılması
+    - Telekomda şirket / yatırım ortaklıkları
+  - Dijital emek / müşterek veri
+  - İletişim ve Organizasyon
+
 
 #### Projeler
   - kemgozleresis.org.tr
