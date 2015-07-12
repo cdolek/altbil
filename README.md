@@ -46,7 +46,7 @@
   - Güvenli haberleşme / Kriptoloji [Ugurcan, Baris, Neslihan, Isik, Alp]
   - Internet'in Durumu Rapor grubu [Zeyno, Gamze, Ilden, Alp]
   - İletişim ve Organizasyon [Erdem, Oguz, Burak, Orkut]
-  - Siberfeminizm [Ayse, Zeyno, Ilden, Gamze, Asli, Isik, Neslihan, Neriman]
+  - Siberfeminizm [Ayse, Zeyno, Ilden, Gamze, Asli, Isik, Neslihan, Nermin]
     - Dijital Dantel
     - Kadınlar Makinası
     - Ada Lovelace Günü
