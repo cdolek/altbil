@@ -46,7 +46,10 @@
   - Güvenli haberleşme / Kriptoloji [Ugurcan, Baris, Neslihan, Isik, Alp]
   - Internet'in Durumu Rapor grubu [Zeyno, Gamze, Ilden, Alp]
   - İletişim ve Organizasyon [Erdem, Oguz, Burak, Orkut]
-  - Siberfeminizm / dijital dantel [Ayse, Zeyno, Ilden, Gamze, Asli, Isik, Neslihan, Neriman]
+  - Siberfeminizm [Ayse, Zeyno, Ilden, Gamze, Asli, Isik, Neslihan, Neriman]
+    - Dijital Dantel
+    - Kadınlar Makinası
+    - Ada Lovelace Günü
   - Teknik Operasyonlar [Gokhan, Oguz, Burak, Ali Riza, Baris...]
   - Dijital emek / müşterek veri [Burak]
 
