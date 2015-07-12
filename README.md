@@ -9,11 +9,18 @@
 #### İletişim
   - Email, telefon, posta adresi
   - Twitter
+  - Facebook
 
 #### Faaliyetler
   - Kampanyalar
   - Bildiriler
-  - Etkinlikler
+  - Etkinlikler (konferans, hafta, atölye)
+  - Raporlar
+  - Desteklenen Kampanyalar
+  - Katılım gösterilen etkinlikler
+  - Danışmanlık
+  - Yasa taslak önerileri
+  - Medyada Alternatif Bilişim
 
 #### Projeler
   - Kemgözlereşiş,
