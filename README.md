@@ -4,11 +4,11 @@
   - Vizyon
   - [Amaçlar](https://www.alternatifbilisim.org/wiki/Ama%C3%A7lar)
   - [Tüzük](https://www.alternatifbilisim.org/wiki/Alternatif_Bili%C5%9Fim_Derne%C4%9Fi_T%C3%BCz%C3%BC%C4%9F%C3%BC)
-  - [Kimler]
+  - Kimler
 
 #### İletişim
-  - Email, telefon, posta adresi
-  - Twitter
+  - E-posta, telefon, posta adresi [iletisim](https://www.alternatifbilisim.org/wiki/%C4%B0leti%C5%9Fim)
+  - [Twitter](https://twitter.com/altbilisim)
   - Facebook
 
 #### Üyelik
