@@ -25,11 +25,16 @@
   - Yasa taslak önerileri
   - Medyada Alternatif Bilişim
 
-#### Alanlar
+#### Alanlar / Çalışma Grupları
   - Kitlesel gözetim
+  - Özgür Lisanslar
+    - choosealicense.com > lisanssec.org
+    - altbil onayli sertifika
   - Sansür
+  - İletişim ve Organizasyon
+  - İç eğitim
   - Bilişim hukuku
-  - Özgür yazılım
+  - Özgür yazılıma geçiş
 
 #### Projeler
   - kemgozleresis.org.tr
