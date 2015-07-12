@@ -44,9 +44,10 @@
   - Internet Social Forum Istanbul http://www.internetsocialforum.net
   - Ungov Brazil http://iuf.partidopirata.org
   - Güvenli haberleşme / Kriptoloji
-  - Dijital emek / müşterek veri
-  - Internet'in Durumu Raporlama grubu
+  - Internet'in Durumu Rapor grubu
   - İletişim ve Organizasyon
+  - Siberfeminizm / dijital dantel
+  - Dijital emek / müşterek veri
 
 #### Projeler
   - [KemGözlereŞiş](https://kemgozleresis.org.tr)
