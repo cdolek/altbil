@@ -51,7 +51,7 @@
     - Kadınlar Makinası
     - Ada Lovelace Günü
   - Teknik Operasyonlar [Gokhan, Oguz, Burak, Ali Riza, Baris...]
-  - Dijital emek / müşterek veri [Burak, Oguz] http://userlabor.org
+  - Dijital emek / müşterek veri [Burak, Oguz, Asli] http://userlabor.org
 
 #### Projeler
   - [KemGözlereŞiş](https://kemgozleresis.org.tr)
