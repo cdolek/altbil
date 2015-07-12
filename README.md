@@ -1,9 +1,15 @@
 # Alternatif Bilsim Bilgi Mimarisi
 
-#### Hakkımızda (Kimler, Tuzuk, Amaçlar)
+#### Hakkımızda
+  - Kimler
+  - Tüzük
+  - Amaçlar
+
 #### İletişim
+
 #### Faaliyetler
-#### Projeler:
+
+#### Projeler
   - Kemgözlereşiş,
   - Altbil TV,
   - Yenimedya.org.tr
@@ -16,5 +22,5 @@
   - tahhutname.org
   - aletetme.org
   - ungov
-  
+
 #### Bağış
