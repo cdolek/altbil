@@ -1,15 +1,17 @@
 # Alternatif Bilişim Bilgi Mimarisi
 
 #### Hakkımızda
-  - Vizyon
   - [Amaçlar](https://www.alternatifbilisim.org/wiki/Ama%C3%A7lar)
   - [Tüzük](https://www.alternatifbilisim.org/wiki/Alternatif_Bili%C5%9Fim_Derne%C4%9Fi_T%C3%BCz%C3%BC%C4%9F%C3%BC)
-  - Kimler
+  - Kimler (Yönetim Kurulu, Denetim Kurulu, Danışma Kurulu, roller)
 
 #### İletişim
-  - E-posta, telefon, posta adresi [iletisim](https://www.alternatifbilisim.org/wiki/%C4%B0leti%C5%9Fim)
+  - Telefon: 0 216 418 0 417
+  - Adres: Alternatif Bilişim Derneği Genel Merkezi, Eğitim Mah. Ömerbey Sok. Keskin Hancı İş Merkezi No.19/B 34722 Kadıköy İstanbul
+  - E-posta: bilgi@alternatifbilisim.org
+  - [Mail Grubu](http://liste.alternatifbilisim.org/listinfo/ab)
   - [Twitter](https://twitter.com/altbilisim)
-  - Facebook
+  - [Facebook](https://www.facebook.com/AltBilisim)
 
 #### Üyelik
   - [Üye Formu](https://alternatifbilisim.org/files/uyelik_formu.pdf)
