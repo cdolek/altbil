@@ -42,7 +42,7 @@
   - Kullanıcı Sözleşmeleri takibi [Nermin, Neslihan, Asli, Ilden, Baris]
     - tosdr.org
     - Turkcell, Avea, Vodafone, Turktelekom, ttnet, superonline ...
-    - Çalışma grubu email listesi: https://liste.alternatifbilisim.org/listinfo/tosdr-tr
+    - [Çalışma grubu email listesi](https://liste.alternatifbilisim.org/listinfo/tosdr-tr)
 
   - Ağ tarafsızlığı [Oguz, Burak, Gamze]
     - İnternet altyapısında fiili tekelin sonlandırılması
@@ -50,7 +50,8 @@
 
   - Çocuklara özgür yazılım [Nermin, Asli]
 
-  - Taahhutname ve meclis grubu [Çoşkunoğlu, Melih, Ali Riza]
+  - Taahhütname ve meclis grubu [Çoşkunoğlu, Melih, Ali Riza]
+    - [2015 Haziran seçimi için hazırlanan taahhütname](https://github.com/AlternatifBilisim/altbil/blob/master/taahhutname.md)
 
   - Internet Social Forum Istanbul http://www.internetsocialforum.net [Melih, Seda, Burak, Isik]
 
@@ -73,9 +74,9 @@
 
   - Dijital emek / müşterek veri [Burak, Oguz, Asli] http://userlabor.org
 
-  - Devlet bilgilerinin şeffaflığı
+  - Kamu hakkında ve kamuya ait verilerin şeffaflığı [Burak]
     - Bilgi Edinme Hakkının etkin kullanımı
-
+    - Özgür veri standartlarının sivil / kamuda kullanabileceği araçlar
 
   - Teknik Operasyonlar [Gokhan, Oguz, Burak, Ali Riza, Baris...]
     - Giriş sayfası EN/TR
