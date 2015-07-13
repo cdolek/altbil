@@ -29,6 +29,7 @@
 
 #### Alanlar / Çalışma Grupları
   - Kitlesel gözetim [Ayşe, Baris, Melih, Isik, Neslihan]
+    - Gözetim
     - Sansür
     - Mahremiyet
 
@@ -48,7 +49,7 @@
 
   - Çocuklara özgür yazılım [Nermin, Asli]
 
-  - Taahhutname ve meclis grubu [Osman, Melih, Ali Riza]
+  - Taahhutname ve meclis grubu [Çoşkunoğlu, Melih, Ali Riza]
 
   - Internet Social Forum Istanbul http://www.internetsocialforum.net [Melih, Seda, Burak, Isik]
 
@@ -65,13 +66,17 @@
     - Kadınlar Makinası
     - Ada Lovelace Günü
 
+  - Kişisel verilerin mahremiyetinin korunması [Melih, Burak, Çoşkunoğlu]
+    - Sağlık alanında
+    - Telekomünikasyon alanında
+
+  - Dijital emek / müşterek veri [Burak, Oguz, Asli] http://userlabor.org
+
   - Teknik Operasyonlar [Gokhan, Oguz, Burak, Ali Riza, Baris...]
     - Giriş sayfası EN/TR
     - Üyeler sayfası
     - İçerik Yönetim Sistemi...
-
-  - Dijital emek / müşterek veri [Burak, Oguz, Asli] http://userlabor.org
-
+    
 #### Projeler
   - [KemGözlereŞiş](https://kemgozleresis.org.tr)
   - [Altbilisim TV](tv.alternatifbilsim.org)
