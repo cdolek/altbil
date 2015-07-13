@@ -73,10 +73,15 @@
 
   - Dijital emek / müşterek veri [Burak, Oguz, Asli] http://userlabor.org
 
+  - Devlet bilgilerinin şeffaflığı
+    - Bilgi Edinme Hakkının etkin kullanımı
+
+
   - Teknik Operasyonlar [Gokhan, Oguz, Burak, Ali Riza, Baris...]
     - Giriş sayfası EN/TR
-    - Üyeler sayfası
+    - Üyeler sayfası ve üye kayıt otomasyonu
     - İçerik Yönetim Sistemi...
+
 
 #### Projeler
   - [KemGözlereŞiş](https://kemgozleresis.org.tr)
