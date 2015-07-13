@@ -1,5 +1,7 @@
 # Taahhütname / Taleplerimiz
 
+#### Özgür İnternet ve Dijital Hakların Korunması için Söz Veriyorum
+
 7 Haziran 2015 seçimlerinde milletvekili seçilmem halinde;
 
 1. **Temel bir insan hakkı olan İnternet’e erişimin** yasal güvence altına alınması için çalışacağıma;
