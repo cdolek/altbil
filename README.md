@@ -53,9 +53,12 @@
   - Taahhütname ve meclis grubu [Çoşkunoğlu, Melih, Ali Riza]
     - [2015 Haziran seçimi için hazırlanan taahhütname](https://github.com/AlternatifBilisim/altbil/blob/master/taahhutname.md)
 
-  - Internet Social Forum Istanbul http://www.internetsocialforum.net [Melih, Seda, Burak, Isik]
+  - Internet Social Forum Istanbul [Melih, Seda, Burak, Isik]
+    - http://www.internetsocialforum.net
 
-  - Ungov Brazil http://iuf.partidopirata.org [Burak, Zeyno, Isik, Asli]
+  - Ungov Brazil [Burak, Zeyno, Isik, Asli]
+    - https://iuf.alternatifbilisim.org
+    - http://iuf.partidopirata.org
 
   - Yeni Medya Kongre DK Ekibi [Mutlu, Günseli, Tuğrul, Aslı, Zeynep, Perrin]
 
@@ -74,7 +77,9 @@
     - Sağlık alanında
     - Telekomünikasyon alanında
 
-  - Dijital emek / müşterek veri [Burak, Oguz, Asli] http://userlabor.org
+  - Dijital emek / müşterek veri [Burak, Oguz, Asli]
+    - http://userlabor.org
+    - http://digitallabor.org
 
   - Kamu hakkında ve kamuya ait verilerin şeffaflığı [Burak, Mutlu]
     - Bilgi Edinme Hakkının etkin kullanımı
