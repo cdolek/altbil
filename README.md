@@ -28,7 +28,7 @@
   - Medyada Alternatif Bilişim
 
 #### Alanlar / Çalışma Grupları
-  - Kitlesel gözetim [Ayşe, Baris, Melih, Isik, Neslihan]
+  - Kitlesel gözetim [Ayşe, Baris, Melih, Isik, Neslihan, Mutlu]
     - Gözetim
     - Sansür
     - Mahremiyet
@@ -57,9 +57,11 @@
 
   - Ungov Brazil http://iuf.partidopirata.org [Burak, Zeyno, Isik, Asli]
 
+  - Yeni Medya Kongre DK Ekibi [Mutlu, Günseli, Tuğrul, Aslı, Zeynep, Perrin]
+
   - Güvenli haberleşme / Kriptoloji [Ugurcan, Baris, Neslihan, Isik, Alp]
 
-  - İnternet'in Durumu Rapor grubu [Zeyno, Gamze, Ilden, Alp]
+  - İnternet'in Durumu Rapor grubu [Zeyno, Gamze, Ilden, Alp, Mutlu]
 
   - İletişim ve Organizasyon [Erdem, Oguz, Burak, Orkut]
 
@@ -68,13 +70,13 @@
     - Kadınlar Makinası
     - Ada Lovelace Günü
 
-  - Kişisel verilerin mahremiyetinin korunması [Melih, Burak, Çoşkunoğlu]
+  - Kişisel verilerin mahremiyetinin korunması [Melih, Burak, Çoşkunoğlu, Mutlu]
     - Sağlık alanında
     - Telekomünikasyon alanında
 
   - Dijital emek / müşterek veri [Burak, Oguz, Asli] http://userlabor.org
 
-  - Kamu hakkında ve kamuya ait verilerin şeffaflığı [Burak]
+  - Kamu hakkında ve kamuya ait verilerin şeffaflığı [Burak, Mutlu]
     - Bilgi Edinme Hakkının etkin kullanımı
     - Özgür veri standartlarının sivil / kamuda kullanabileceği araçlar
 
