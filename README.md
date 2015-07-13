@@ -42,6 +42,7 @@
   - Kullanıcı Sözleşmeleri takibi [Nermin, Neslihan, Asli, Ilden, Baris]
     - tosdr.org
     - Turkcell, Avea, Vodafone, Turktelekom, ttnet, superonline ...
+    - Çalışma grubu email listesi: https://liste.alternatifbilisim.org/listinfo/tosdr-tr
 
   - Ağ tarafsızlığı [Oguz, Burak, Gamze]
     - İnternet altyapısında fiili tekelin sonlandırılması
@@ -76,7 +77,7 @@
     - Giriş sayfası EN/TR
     - Üyeler sayfası
     - İçerik Yönetim Sistemi...
-    
+
 #### Projeler
   - [KemGözlereŞiş](https://kemgozleresis.org.tr)
   - [Altbilisim TV](tv.alternatifbilsim.org)
