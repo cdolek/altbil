@@ -27,7 +27,12 @@
   - Yasa taslak önerileri
   - Medyada Alternatif Bilişim
 
-#### Alanlar / Çalışma Grupları
+#### Çalışma Grupları
+
+Katılmak isteyenler grupta adı geçenlerden birilerine ilk epostayı atarak katılabilir.
+6 ayda bir fiziki olarak bir araya gelinecek.
+Toplantılar gelmek isteyen tüm üyelere açık, birikimi/deneyimi itibariyle bu toplantılarda özellikle yönetim, denetim, ve danışma kurulu üyelerimizin katılması bekleniyor.
+
   - **Kitlesel gözetim** [Ayşe, Baris, Melih, Isik, Neslihan, Mutlu, Seda]
     - Gözetim
     - Sansür
