@@ -72,6 +72,9 @@ Toplantılar gelmek isteyen tüm üyelere açık, birikimi/deneyimi itibariyle b
   - **İnternet'in Durumu Rapor grubu** [Zeyno, Gamze, Ilden, Alp, Mutlu]
 
   - **İletişim ve Organizasyon** [Erdem, Oguz, Burak, Orkut]
+    - Basın mensupları iletişim bilgilerinin yeniden derlenmesi [Alp, İlden...]
+    - Sosyal medya hesaplarının yönetilmesi [Işık M, Burak, Barış, Erdem]
+    - Duyuru listesi, Mailchimp benzeri bir bülten entegrasyonu
 
   - **Siberfeminizm** [Ayse, Zeyno, Ilden, Gamze, Asli, Isik, Neslihan, Nermin,Seda]
     - Dijital Dantel
