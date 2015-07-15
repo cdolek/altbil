@@ -91,10 +91,11 @@ Toplantılar gelmek isteyen tüm üyelere açık, birikimi/deneyimi itibariyle b
     - Özgür veri standartlarının sivil / kamuda kullanabileceği araçlar
 
   - **Teknik Operasyonlar** [Gokhan, Oguz, Burak, Ali Riza, Baris...]
-    - Giriş sayfası EN/TR
-    - Üyeler sayfası ve üye kayıt otomasyonu
-    - İçerik Yönetim Sistemi...
-
+    - Dernek sitesi giriş sayfası EN/TR
+    - Üyelik yönetim sistemi
+    - Bağışlar için ödeme otomatizasyonu
+    - Proje yönetim sistemi
+    - İçerik Yönetim Sistemi
 
 #### Projeler
   - [KemGözlereŞiş](https://kemgozleresis.org.tr)
