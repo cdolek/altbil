@@ -15,6 +15,11 @@
 
 #### Üyelik
   - [Üye Formu](https://alternatifbilisim.org/files/uyelik_formu.pdf)
+  - Form tam ve doğru bilgilerle doldurulmuş olmalı.
+  - Üye alınacak kişi en az bir dernek üyesi referansı ile önerilebilir.
+  - Üye kabulünden önce 60 lira giriş ödentisi ve aylık 20 lira aidatın birlikte gönderilir (toplam 80TL).
+  - Öğrenciler için giriş ödentisi olan 24 lira + 8 lira aylık aidatdır.
+  - Dernek çalışmalarında hiç varlık göstermeyen ve aidat ödemeyen kişiler tüzük gereği çıkarılır.
 
 #### Faaliyetler
   - Kampanyalar
