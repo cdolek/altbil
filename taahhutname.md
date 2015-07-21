@@ -8,7 +8,7 @@
 
 2. Kabul edildiğinden beri problemlere yol açan **5651 sayılı yasanın iptal edilmesi** ve STK'lar öncülüğünde, İnternet’i bir fırsat olarak değerlendiren yasa yapılmasının takipçisi olacağıma;
 
-3. **BTK'nın bağımsızlaşması**, STK’lar tarafından denetlenmesi, **İnternet üzerindeki rolünün kesin sınırlarla belirlenip şeaflaşması** için yasal düzenlemelerin yapılması ve uygulanması için çalışacağıma;
+3. **BTK'nın bağımsızlaşması**, STK’lar tarafından denetlenmesi, **İnternet üzerindeki rolünün kesin sınırlarla belirlenip şeffaflaşması** için yasal düzenlemelerin yapılması ve uygulanması için çalışacağıma;
 
 4. **Başta Telekom ve İnternet Hizmet Sağlayıcılığı olmak üzere, sektördeki tekel durumunun sonlandırılması** için varolan yasal düzenleme ve uygulamalardaki sorunların giderilmesi konusunda çaba göstereceğime;
 
