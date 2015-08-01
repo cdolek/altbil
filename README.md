@@ -6,7 +6,6 @@
   - Kimler (Yönetim Kurulu, Denetim Kurulu, Danışma Kurulu, roller)
 
 #### İletişim
-  - Telefon: --
   - Adres: Alternatif Bilişim Derneği Genel Merkezi, Eğitim mah. Muratpaşa cad. Alpay apt. No:11/9  Kadıköy/İstanbul
   - E-posta: bilgi@alternatifbilisim.org
   - [E-posta Listesi](http://liste.alternatifbilisim.org/listinfo/ab)
