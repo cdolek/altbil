@@ -6,10 +6,10 @@
   - Kimler (Yönetim Kurulu, Denetim Kurulu, Danışma Kurulu, roller)
 
 #### İletişim
-  - Telefon: 0 216 418 0 417
-  - Adres: Alternatif Bilişim Derneği Genel Merkezi, Eğitim Mah. Ömerbey Sok. Keskin Hancı İş Merkezi No.19/B 34722 Kadıköy İstanbul
+  - Telefon: --
+  - Adres: Alternatif Bilişim Derneği Genel Merkezi, Eğitim mah. Muratpaşa cad. Alpay apt. No:11/9  Kadıköy/İstanbul
   - E-posta: bilgi@alternatifbilisim.org
-  - [Mail Grubu](http://liste.alternatifbilisim.org/listinfo/ab)
+  - [E-posta Listesi](http://liste.alternatifbilisim.org/listinfo/ab)
   - [Twitter](https://twitter.com/altbilisim)
   - [Facebook](https://www.facebook.com/AltBilisim)
 
