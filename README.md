@@ -51,7 +51,7 @@ Toplantılar gelmek isteyen tüm üyelere açık, birikimi/deneyimi itibariyle b
   - **Kullanıcı Sözleşmeleri takibi** [Nermin, Neslihan, Asli, Ilden, Baris]
     - tosdr.org
     - Turkcell, Avea, Vodafone, Turktelekom, ttnet, superonline ...
-    - [Çalışma grubu email listesi](https://liste.alternatifbilisim.org/listinfo/tosdr-tr)
+    - [Çalışma grubu e-posta listesi](https://liste.alternatifbilisim.org/listinfo/tosdr-tr)
 
   - **Ağ tarafsızlığı** [Oguz, Burak, Gamze]
     - İnternet altyapısında fiili tekelin sonlandırılması
