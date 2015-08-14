@@ -71,7 +71,7 @@ Toplantılar gelmek isteyen tüm üyelere açık, birikimi/deneyimi itibariyle b
 
   - **İnternet Yönetişim İzleme** [Aslı, Burak, Seda, Melih, Coşkunoğlu, Işık]
   
-  - **İnternet'in Durumu Rapor grubu** [Zeyno, Gamze, İlden, Alp, Mutlu]
+  - **İnternet'in Durumu Rapor grubu** [Zeyno, Gamze, İlden, Alp, Mutlu, Zeynep Özarslan]
 
   - **Yeni Medya Kongre DK Ekibi** [Mutlu, Günseli, Tuğrul, Aslı, Zeynep, Perrin]
 
