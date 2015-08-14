@@ -37,59 +37,61 @@ Katılmak isteyenler grupta adı geçenlerden birilerine ilk epostayı atarak ka
 6 ayda bir fiziki olarak bir araya gelinecek.
 Toplantılar gelmek isteyen tüm üyelere açık, birikimi/deneyimi itibariyle bu toplantılarda özellikle yönetim, denetim, ve danışma kurulu üyelerimizin katılması bekleniyor.
 
-  - **Kitlesel gözetim** [Ayşe, Baris, Melih, Isik, Neslihan, Mutlu, Seda]
+  - **Kitlesel gözetim** [Ayşe, Barış, Melih, Işık, Neslihan, Mutlu, Seda]
     - Gözetim
     - Sansür
     - Mahremiyet
 
-  - **Özgür Lisanslar** [Baris, Ayse, Melih, Neslihan]
+  - **Özgür Lisanslar** [Barış, Ayşe, Melih, Neslihan]
     - choosealicense.com > lisanssec.org
     - altbil onayli sertifika
 
-  - **İç eğitimle özgür yazılıma geçiş** [Baris, Neslihan, Ugurcan, Isik]
+  - **İç eğitimle özgür yazılıma geçiş** [Barış, Neslihan, Uğurcan, Işık]
 
-  - **Kullanıcı Sözleşmeleri takibi** [Nermin, Neslihan, Asli, Ilden, Baris]
+  - **Kullanıcı Sözleşmeleri takibi** [Nermin, Neslihan, Asli, İlden, Barış]
     - tosdr.org
     - Turkcell, Avea, Vodafone, Turktelekom, ttnet, superonline ...
     - [Çalışma grubu e-posta listesi](https://liste.alternatifbilisim.org/listinfo/tosdr-tr)
 
-  - **Ağ tarafsızlığı** [Oguz, Burak, Gamze]
-    - İnternet altyapısında fiili tekelin sonlandırılması
-    - Telekomda şirket / yatırım ortaklıkları
-
-  - **Çocuklara özgür yazılım** [Nermin, Asli]
+  - **Çocuklara özgür yazılım** [Nermin, Aslı]
 
   - **Taahhütname ve meclis grubu** [Çoşkunoğlu, Melih, Ali Riza]
     - [2015 Haziran seçimi için hazırlanan taahhütname](https://github.com/AlternatifBilisim/altbil/blob/master/taahhutname.md)
 
-  - **Internet Social Forum Istanbul** [Melih, Seda, Burak, Isik]
+  - **Ağ tarafsızlığı** [Oğuz, Burak, Gamze]
+    - İnternet altyapısında fiili tekelin sonlandırılması
+    - Telekomda şirket / yatırım ortaklıkları
+
+  - **Internet Social Forum Istanbul** [Melih, Seda, Burak, Işık]
     - http://www.internetsocialforum.net
 
-  - **Ungov Brazil** [Burak, Zeyno, Isik, Asli]
+  - **Ungov Brazil** [Burak, Zeyno, Işık, Aslı]
     - https://iuf.alternatifbilisim.org
     - http://iuf.partidopirata.org
 
+  - **İnternet'in Durumu Rapor grubu** [Zeyno, Gamze, İlden, Alp, Mutlu]
+
+  - **İnternet Yönetişim İzleme** [Aslı, Burak, Seda, Melih, Coşkunoğlu, Işık]
+
   - **Yeni Medya Kongre DK Ekibi** [Mutlu, Günseli, Tuğrul, Aslı, Zeynep, Perrin]
 
-  - **Güvenli haberleşme / Kriptoloji** [Ugurcan, Baris, Neslihan, Isik, Alp, Seda]
-
-  - **İnternet'in Durumu Rapor grubu** [Zeyno, Gamze, Ilden, Alp, Mutlu]
+  - **Güvenli haberleşme / Kriptoloji** [Ugurcan, Barış, Neslihan, Işık, Alp, Seda]
 
   - **İletişim ve Organizasyon** [Erdem, Oguz, Burak, Orkut]
     - Basın mensupları iletişim bilgilerinin yeniden derlenmesi [Alp, İlden...]
     - Sosyal medya hesaplarının yönetilmesi [Işık M, Burak, Barış, Erdem]
     - Duyuru listesi, Mailchimp benzeri bir bülten entegrasyonu
 
-  - **Siberfeminizm** [Ayse, Zeyno, Ilden, Gamze, Asli, Isik, Neslihan, Nermin,Seda]
+  - **Siberfeminizm** [Ayşe, Zeyno, İlden, Gamze, Aslı, Işık, Neslihan, Nermin, Seda]
     - Dijital Dantel
     - Kadınlar Makinası
     - Ada Lovelace Günü
 
-  - **Kişisel verilerin mahremiyetinin korunması** [Melih, Burak, Çoşkunoğlu, Mutlu, Seda]
+  - **Kişisel verilerin mahremiyetinin korunması** [Melih, Burak, Coşkunoğlu, Mutlu, Seda]
     - Sağlık alanında
     - Telekomünikasyon alanında
 
-  - **Dijital emek / müşterek veri** [Burak, Oguz, Asli, Seda]
+  - **Dijital emek / müşterek veri** [Burak, Oğuz, Aslı, Seda]
     - http://userlabor.org
     - http://digitallabor.org
 
@@ -97,7 +99,7 @@ Toplantılar gelmek isteyen tüm üyelere açık, birikimi/deneyimi itibariyle b
     - Bilgi Edinme Hakkının etkin kullanımı
     - Özgür veri standartlarının sivil / kamuda kullanabileceği araçlar
 
-  - **Teknik Operasyonlar** [Gokhan, Oguz, Burak, Ali Riza, Baris...]
+  - **Teknik Operasyonlar** [Gökhan, Oğuz, Burak, Ali Rıza, Barış]
     - Dernek sitesi giriş sayfası EN/TR
     - Üyelik yönetim sistemi
     - Bağışlar için ödeme otomatizasyonu
