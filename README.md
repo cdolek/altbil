@@ -91,7 +91,7 @@ Toplantılar gelmek isteyen tüm üyelere açık, birikimi/deneyimi itibariyle b
     - Sağlık alanında
     - Telekomünikasyon alanında
 
-  - **Dijital emek / müşterek veri** [Burak, Oğuz, Aslı, Seda]
+  - **Dijital emek / müşterek veri** [Burak, Oğuz, Aslı, Seda, Zeynep Özarslan, Ahmet Sabancı]
     - http://userlabor.org
     - http://digitallabor.org
 
