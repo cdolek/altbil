@@ -69,9 +69,9 @@ Toplantılar gelmek isteyen tüm üyelere açık, birikimi/deneyimi itibariyle b
     - https://iuf.alternatifbilisim.org
     - http://iuf.partidopirata.org
 
-  - **İnternet'in Durumu Rapor grubu** [Zeyno, Gamze, İlden, Alp, Mutlu]
-
   - **İnternet Yönetişim İzleme** [Aslı, Burak, Seda, Melih, Coşkunoğlu, Işık]
+  
+  - **İnternet'in Durumu Rapor grubu** [Zeyno, Gamze, İlden, Alp, Mutlu]
 
   - **Yeni Medya Kongre DK Ekibi** [Mutlu, Günseli, Tuğrul, Aslı, Zeynep, Perrin]
 
