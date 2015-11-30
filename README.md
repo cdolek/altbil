@@ -108,17 +108,17 @@ Toplantılar gelmek isteyen tüm üyelere açık, birikimi/deneyimi itibariyle b
 
 #### Projeler
   - [KemGözlereŞiş](https://kemgozleresis.org.tr)
-  - [Altbilisim TV](tv.alternatifbilsim.org)
+  - [Altbilisim TV](http://tv.alternatifbilisim.org) (Çalışmıyor)
   - [Yenimedya.org.tr](http://yenimedya.org.tr)
-  - [Enphormasyon.org](http://enphormasyon.org)
-  - [Https Kullan](https://httpskullan.org)
-  - [Yeniden Başlat](https://yenidenbaslat.org)
-  - [Ekitap](http://ekitap.alternatifbilsim.org)
-  - [Netdefteri](netdefteri.alternatifbilisim.org)
+  - [Enphormasyon.org](http://enphormasyon.org) (Çalışmıyor)
+  - [Https Kullan](https://httpskullan.org) (Çalışmıyor)
+  - [Yeniden Başlat](https://yenidenbaslat.org) (Çalışmıyor)
+  - [Ekitap](http://ekitap.alternatifbilisim.org)
+  - [Netdefteri](http://netdefteri.alternatifbilisim.org)
   - [Bildirge.org](http://bildirge.org)
-  - [Taahhutname.org](#)
-  - [Aletetme.org](http://aletetme.org)
-  - [Ungov](https://iuf.alternatifbilsim.org)
+  - [Taahhutname.org](http://taahhutname.org) (Çalışmıyor)
+  - [Aletetme.org](http://aletetme.org) (Çalışmıyor)
+  - [Ungov](https://iuf.alternatifbilisim.org)
 
 #### Bağış
   - [Dernek banka bilgisi](https://www.alternatifbilisim.org/wiki/Banka_Hesap_Bilgileri)
